@@ -17,9 +17,7 @@ Make sure you join the Hacktoberfest discussion on our community slack, as well 
 
 ## Contributor License Agreement
 
-In order to clarify the intellectual property license granted with Contributions from any person or entity, Harness Inc. ("Harness") must have a Contributor License Agreement ("CLA") on file that has been read, accepted, and followed by each contributor, indicating an agreement to the CLA terms located here. This license is for your protection as a Contributor as well as the protection of Harness; it does not change your rights to use your own Contributions for any other purpose.
-
-By Submitting code to this repo, contributors agree to the Contributor License Agreement, which can be viewed [here](https://github.com/harness-community/overview/blob/main/Contributor_License_Agreement.md).
+In order to clarify the intellectual property license granted with Contributions from any person or entity, Harness Inc. ("Harness") must have a Contributor License Agreement ("CLA") on file that has been read, accepted, and followed by each contributor, indicating an agreement to the CLA terms located [here](https://github.com/harness-community/overview/blob/main/Contributor_License_Agreement.md). This license is for your protection as a Contributor as well as the protection of Harness; it does not change your rights to use your own Contributions for any other purpose.
 
 ## Code of Conduct
 
